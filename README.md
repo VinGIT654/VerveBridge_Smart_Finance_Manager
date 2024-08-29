@@ -94,7 +94,7 @@ License
 This project is licensed under the MIT License - see the LICENSE file for details.
 
 Contact
-For questions or suggestions, please contact the project maintainer at vinutharn7@gmail.com.
+For questions or suggestions, please contact the project maintainer at vinuthanaik550@gmail.com.
 
 markdown
 Copy code
